@@ -69,6 +69,6 @@ Este projeto não possui uma licença específica definida no momento. Caso voc�
 
 ### Autores
 
-  * Gustavo Alves ([GitHub](https://github.com/Gusttavooll))
+  * Gustavo Alves ([GitHub](https://github.com/Gusttavooll)) ([Linkedin](https://www.linkedin.com/in/gustavo-alves-153084327/))
 
 Agradecemos o seu interesse no projeto Cultura Eterna e esperamos expandir em breve nosso acervo cultural para todo o Brasil\!
